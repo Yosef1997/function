@@ -1,0 +1,1 @@
+this repository is a collection of some function for exercise
